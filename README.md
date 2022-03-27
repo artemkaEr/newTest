@@ -7,7 +7,8 @@ new date one
 new test delta
 
 new date2
-hello world!!!!!!!!!
-hello world!!!!!!!!!
+
 >>>>>>> b02b7bf70172006a3ed0136e8d00fac089939fb2
 hello world!!!!!!!!!
+
+hello
